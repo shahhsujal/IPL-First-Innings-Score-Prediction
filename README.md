@@ -72,10 +72,9 @@ Among the models tested, **Random Forest Regressor** performed best with **94.06
 ---
 
 ## 👨‍💻 Authors
-- Shivaan Lalwani
+
 - **Sujal Shah**
-- Tejbir Singh Khalsa  
-*Department of Information Technology, NMIMS MPSTME*
+
 
 ---
 
